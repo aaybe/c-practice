@@ -14,7 +14,7 @@ int main()
 
     // get the random number, less than 51
     randomNumber = rand() % 51;
-
+    
     printf("This is a guessing game. A number between 0 and 50 has been selected and you have %d tries to guess which one it is.", numGuessesLeft);
 
     for(numGuessesLeft; numGuessesLeft >= 0; numGuessesLeft--)
@@ -27,9 +27,16 @@ int main()
         }
         
         //Displays num guesses left and promts user to enter their guess
+        if(numGuessesLeft > 1){
         printf("\nYou have %d tries left.", numGuessesLeft);
         printf("\nEnter a guess: ");
         scanf("%d", &guess);
+        }
+        else{
+        printf("\nYou have 1 try left.");
+        printf("\nEnter a guess: ");
+        scanf("%d", &guess);    
+        }
         
         if (guess > 50 || guess < 0)
         printf("Your guess is out of bounds. You just wasted a turn!");
