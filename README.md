@@ -3,10 +3,10 @@ C
 - exponent_calculator: Takes a base and exponent and solves recursively.
 - guess_number_game: Randomly takes a number 0-50 and user has to try and guess the correct number 
 
-**Multistudy**
+**Multistudy**  
 **Undecided Team Name**
 
-**Description of Multistudy**
+**Description of Multistudy**  
 A multi-use application that will offer useful features aimed for students. It will offer four different 
 features: a scientific calculator, a weekly planner, a customizable timer, and a notepad. 
 
