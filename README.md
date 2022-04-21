@@ -10,7 +10,7 @@ C
 A multi-use application that will offer useful features aimed for students. It will offer four different 
 features: a scientific calculator, a weekly planner, a customizable timer, and a notepad. 
 
-**Requirements**
+**Requirements**  
 Compiler compliance level 1.8
 JRE 1.8.0
 
