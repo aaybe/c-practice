@@ -3,18 +3,20 @@ C
 - exponent_calculator: Takes a base and exponent and solves recursively.
 - guess_number_game: Randomly takes a number 0-50 and user has to try and guess the correct number 
 
-**Multistudy**  
-**Undecided Team Name**
+<h1>Multistudy</h1>
 
-**Description of Multistudy**  
+<h2>Undecided Team Name</h2>
+
+<h2>Description of Multistudy</h2>
 A multi-use application that will offer useful features aimed for students. It will offer four different 
 features: a scientific calculator, a weekly planner, a customizable timer, and a notepad. 
 
-**Requirements**  
-Compiler compliance level 1.8
+<h2>Requirements</h2>
+Compiler compliance level 1.8  
+
 JRE 1.8.0
 
-**Installation and How to Run**
+<h2>Installation and How to Run</h2>
 1. Go to repository and click on "Code"
 2. Copy HTTPS link
 3. Once in Eclipse, click on "File" and then "Import"
@@ -24,7 +26,8 @@ JRE 1.8.0
 7. Select a folder to save local destination and click "next" or "finish"
 8. Go to the project in the Eclipse workspace and run application ("src" -> "application" and then run "Main.java" as Java application)
 
-**Team Members**
+<h2>Team Members</h2>
+
 - Ayrton Bello Nanez
 - MD Hamja
 - Aren Ramirez
